@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/feed/rss.xslt" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
+<channel>
+<ttl>60</ttl>
+<generator>pippa.io</generator>
+<title>Özel Podcast 2021!</title>
+<link>https://podbay.fm/chart/news/episodes</link>
+<atom:link href="https://raw.githubusercontent.com/updatestory/new/main/podcastsxx.rss" rel="self" type="application/rss+xml"/>
+<language>tr</language>
+<copyright>Podcast Yayıncısı</copyright>
+<itunes:keywords/>
+<itunes:author>Podcast Yayıncısı</itunes:author>
+<itunes:subtitle>Bu podcast bölümümüzde sizlere en iyi içerikleri ve zenginlikleri sunmaya çalıştık dileriz keyif alırsınız.</itunes:subtitle>
+<itunes:summary><![CDATA[Özel 2021 podcast'in yeni bölümlerini ve içeriklerini kaçırmamak için bu yayını takipte kalın. Yılın en iyi seçmeleri ve en iyi yayınları sürekli burada sizlerle olmaya devam edecek.]]></itunes:summary>
+<description><![CDATA[Özel 2021 podcast'in yeni bölümlerini ve içeriklerini kaçırmamak için bu yayını takipte kalın. Yılın en iyi seçmeleri ve en iyi yayınları sürekli burada sizlerle olmaya devam edecek.]]></description>
+<itunes:explicit>no</itunes:explicit>
+<itunes:owner>
+<itunes:name>Podcast Yayıncısı</itunes:name>
+<itunes:email>info+60853b672894006cb231b34d@mg.pippa.io</itunes:email>
+</itunes:owner>
+<acast:showId>60853b672894006cb231b34d</acast:showId>
+<acast:showUrl>2020-sarkilar-indir</acast:showUrl>
+<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[I2XfRSZj1egIQvbdpHt2Cw==]]></acast:signature>
+<acast:settings><![CDATA[g5x+9/1cNffrYRDg6iUmAeHclHvZ3X90a+WarQOLddLIJ/kOOn/8v8faELpS8bIIwScAfNtZFunPy0hTe+NzW+ZR6atjQjd8uRi+1EVPXREsXfOlV6OyRYHSYeJrF7xngQvTOWiviKUwdz/EZG4NZOzrYz6ybs/KDfeBptht/8ZvQa9bOHdOjiSVwuLQOSvqNpHXJpwGM6/S6WilklU3K1AffEpt+dZs9NhJ+yQTLeQCBGgrWuob+xHeR20fJ/G/f9K1BODQE/C0YTjiYpsg8QX6M6/YR4cNdvP+ZRqG7N7aaR7+QuVr4kPTe1GPZZzyX+7iOxKYUUS2cYS0Dc1vugcK88hdkIQEApxw/qSglpy4EPrF1Hs14S5EQoEZMJYjflNVEagZEPj5z2OC9pu5rqahl9J+Tld8cog4f109UFXbMkGVexR9x4nQ3nyS9zbZ3Yu1/F2h2m7lzWWK6a0UXMb0dv2JVVLDtGuP5HwAG/Y=]]></acast:settings>
+<item><title>show</title><link>https://open.spotify.com/show/2280URAMd13UKhpNeloX36</link><pubDate>Mon, 22 Nov 2021 13:58:50 +0000</pubDate><description><![CDATA[ <p>show</p> ]]></description><enclosure url="https://assets.pippa.io/shows/60e4b4c0209a8b0012744434/1625601314062-0b1324da7d5cbf1780d39f4325c5fa24.mp3" length="490000" type="audio/mpeg"/></item>
+<itunes:category text="Business"/></channel></rss>

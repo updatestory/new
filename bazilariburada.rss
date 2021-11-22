@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[DEXER kerem]]></title>
+		<description><![CDATA[f="DEXER kerem]]></description>
+		<link>https://podtail.com/podcasts/us/new/</link>
+		<image>
+			<url>https://1.bp.blogspot.com/-L7hAzimh_H0/YHK2h8t1T_I/AAAAAAAACXc/DTci9s1QE1Avx8_Uwz-1O-o1v41PE67zQCLcBGAsYHQ/s320/dexer.png</url>
+			<title>DEXER kerem</title>
+			<link>https://podtail.com/podcasts/us/new/</link>
+		</image>
+		<generator>DEXER kerem Podcasts</generator>
+		<lastBuildDate>Tue, 9 Nov 2021 12:35:30 GMT</lastBuildDate>
+		<atom:link href="http://feeds.feedburner.com/akustik-sarkilar" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[anchor.fm]]></author>
+		<copyright><![CDATA[anchor.fm]]></copyright>
+		<language><![CDATA[tr]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>DEXER kerem</itunes:author>
+		<itunes:summary>DEXER kerem</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+                <itunes:email>web@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Business">
+			<itunes:category text="Investing"/>
+		</itunes:category>
+		<itunes:image href="https://1.bp.blogspot.com/-L7hAzimh_H0/YHK2h8t1T_I/AAAAAAAACXc/DTci9s1QE1Avx8_Uwz-1O-o1v41PE67zQCLcBGAsYHQ/s320/dexer.png"/>
+<item><title>dir</title><link>https://www.podbean.com/media/share/dir-5b5tw-11374b88</link><pubDate>Mon, 22 Nov 2021 12:30:17 +0000</pubDate><description><![CDATA[ <p>dir</p> ]]></description><enclosure url="https://assets.pippa.io/shows/60e4b4c0209a8b0012744434/1625601314062-0b1324da7d5cbf1780d39f4325c5fa24.mp3" length="490000" type="audio/mpeg"/></item>
+<itunes:category text="Business"/>
+</channel>
+</rss>

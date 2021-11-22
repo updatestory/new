@@ -1,0 +1,30 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
+<channel>
+<title>Pippa io</title>
+<itunes:type>episodic</itunes:type>
+<itunes:summary>
+<![CDATA[ Pippa io is the best podcsat streaming service ever. You can listen to current podcasts here. ]]>
+</itunes:summary>
+<description>
+<![CDATA[ Pippa io is the best podcsat streaming service ever. You can listen to current podcasts here. ]]>
+</description>
+<image>
+<title>Pippa io</title>
+<link/>
+<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1876403/1876403-1598963575319-81df9183c7c94.jpg</url>
+</image>
+<itunes:image title="pippa io" link="" href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1876403/1876403-1598963575319-81df9183c7c94.jpg"/>
+<googleplay:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1876403/1876403-1598963575319-81df9183c7c94.jpg"/>
+<language>tr</language>
+<copyright>Copyright 2021 pippa io</copyright>
+<author>feeds@pippa.io</author>
+<itunes:author>pippaio</itunes:author>
+<googleplay:author>pippaio</googleplay:author>
+<itunes:owner>
+<itunes:name>pippaio</itunes:name>
+<itunes:email>feeds@pippa.io</itunes:email>
+</itunes:owner><itunes:author>pippaio</itunes:author><category>Business</category>
+<link>https://podtail.com/podcasts/new/</link><guid>https://podtail.com/podcasts/new/</guid><itunes:explicit>no</itunes:explicit><itunes:category text="Business"><itunes:category text="Marketing"/></itunes:category>
+<item><title>dir</title><link>https://www.podbean.com/media/share/dir-5b5tw-11374b88</link><pubDate>Mon, 22 Nov 2021 12:30:17 +0000</pubDate><description><![CDATA[ <p>dir</p> ]]></description><enclosure url="https://assets.pippa.io/shows/60e4b4c0209a8b0012744434/1625601314062-0b1324da7d5cbf1780d39f4325c5fa24.mp3" length="490000" type="audio/mpeg"/></item>
+</channel>
+</rss>
