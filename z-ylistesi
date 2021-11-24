@@ -25,6 +25,6 @@
 <itunes:category text="Marketing"/>
 </itunes:category>
 <itunes:explicit>no</itunes:explicit>
-<item><title>musade</title>https://podtail.com</link><pubDate>Tue, 23 Nov 2021 21:47:40 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://assets.pippa.io/shows/60e4b4c0209a8b0012744434/1625601314062-0b1324da7d5cbf1780d39f4325c5fa24.mp3" length="490000" type="audio/mpeg"/></item>
+<item><title>pencere</title><link>https://www.podbean.com/media/share/dir-93q6d-11457e85</link><pubDate>Tue, 23 Nov 2021 19:34:28 +0000</pubDate><description><![CDATA[ <p>episodes</p> ]]></description><enclosure url="https://assets.pippa.io/shows/60e4b4c0209a8b0012744434/1625601314062-0b1324da7d5cbf1780d39f4325c5fa24.mp3" length="490000" type="audio/mpeg"/></item>
 </channel>
 </rss>
