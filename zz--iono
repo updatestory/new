@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/rss/transform" media="screen"?>
+<rss
+	version="2.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:ionofm="http://iono.fm/rss-namespace-1.0"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xml:lang="en"
+>
+	<channel>
+		<title>2020 Şarkılar - Yılın en son çıkan şarkıları</title>
+		<link>https://www.yenisarkilarlistesi.com/2018/08/2019-pop-sarkilar-listesi-dinle.html</link>
+		<atom:link href="http://iono.fm/rss/chan/4614" rel="self" type="application/rss+xml" />
+		<description>Yeni şarkılar sitesiyle en son çıkan yeni şarkıları playlist modunda dinlemeniz mümkün. Bugün çıkan ve popülerliğe aday olan tüm şarkıları ana sayfamızda bulabilir indirmeden ücretsiz dinleyebilirsiniz. Şuradan dinle : https://www.yenisarkilarlistesi.com/</description>
+					<category>Music</category>
+				<language>en</language>
+		<pubDate>Tue, 20 Aug 2019 15:41:10 +0200</pubDate>
+		<lastBuildDate>Tue, 20 Aug 2019 15:44:26 +0200</lastBuildDate>
+		<ttl>30</ttl>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>iono.fm </generator>
+		<copyright>Müzik Dinle</copyright>
+				<webMaster>feeds@iono.fm (Feed Manager)</webMaster>
+		<image>
+			<url>https://static.iono.fm/images/initials/?txt=Mzik%20Dinle</url>
+			<title>2020 Şarkılar - Yılın en son çıkan şarkıları</title>
+			<link>https://www.yenisarkilarlistesi.com/2018/08/2019-pop-sarkilar-listesi-dinle.html</link>
+		</image>
+				<itunes:subtitle>Yeni şarkılar sitesiyle en son çıkan yeni şarkıları playlist modunda dinlemeniz mümkün.</itunes:subtitle>
+		<itunes:author>Müzik Dinle</itunes:author>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Müzik Dinle</itunes:name>
+			<itunes:email>rss+1343+4614@iono.fm</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:image href="https://static.iono.fm/images/initials/?txt=Mzik%20Dinle" />
+		<itunes:summary><![CDATA[Yeni şarkılar sitesiyle en son çıkan yeni şarkıları playlist modunda dinlemeniz mümkün. Bugün çıkan ve popülerliğe aday olan tüm şarkıları ana sayfamızda bulabilir indirmeden ücretsiz dinleyebilirsiniz. Şuradan dinle : https://www.yenisarkilarlistesi.com/]]></itunes:summary>
+					<itunes:category text="Music">
+							</itunes:category>
+				<ionofm:thumbnail href="https://static.iono.fm/images/initials/?txt=Mzik%20Dinle" />
+		<ionofm:coverart href="https://static.iono.fm/img/iono2/black/ionofm_black_tagline_square_with_background_300w.png" />
+        <ionofm:player_url><![CDATA[https://iframe.iono.fm/c/4614?download=0]]></ionofm:player_url>
+		<spotify:countryOfOrigin>ZA</spotify:countryOfOrigin>
+		<spotify:limit recentCount="150"/>
+<item><title>itunes</title><link>https://pca.st/itunes/1450102861</link><pubDate>Tue, 23 Nov 2021 21:44:15 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://assets.pippa.io/shows/60e4b4c0209a8b0012744434/1625601314062-0b1324da7d5cbf1780d39f4325c5fa24.mp3" length="490000" type="audio/mpeg"/></item>
+	</channel>
+</rss>
