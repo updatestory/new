@@ -1,4 +1,4 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:castbox="http://castbox.fm/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
 <atom:link href="http://feedproxy.google.com/yenisarkilarlistesidinle" type="application/rss+xml" rel="self"/>
 <copyright/>
@@ -13,9 +13,14 @@
 <itunes:image href="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaCsSsCgYFJhbcX2R_uF5JxJRl4Xv5I-4NmXYL0l9-zjeFDSC5"/>
 <itunes:keywords>Marketing</itunes:keywords>
 <itunes:category text="Business">
-<itunes:category text="Marketing"/>
-</itunes:category>
+<itunes:category text="Marketing"/></itunes:category>
 <itunes:explicit>no</itunes:explicit>
+<googleplay:author>Pippa Main</googleplay:author>
+<googleplay:image href="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaCsSsCgYFJhbcX2R_uF5JxJRl4Xv5I-4NmXYL0l9-zjeFDSC5"/>
+<googleplay:email>kertenkelede48@gmail.com</googleplay:email>
+<googleplay:description>Türkçe pop müzikler dinleyebileceğiniz harika bir liste.</googleplay:description>
+<googleplay:category text="Marketing"/>
+<googleplay:explicit>No</googleplay:explicit>
 <item><title>aksam</title><link>https://www.podbean.com/media/share/dir-8hti5-114faac5</link><pubDate>Thu, 25 Nov 2021 21:22:36 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
 <item><title>marika</title><link>https://www.podbean.com/podcast-detail/rvc5e-23c2f3/SGP-Radio-On-IHeart-Radio-Podcast</link><pubDate>Thu, 25 Nov 2021 21:12:17 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
 <item><title>kral</title><link>https://www.podbean.com/media/share/dir-sdw52-114f83cc</link><pubDate>Thu, 25 Nov 2021 20:56:33 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
