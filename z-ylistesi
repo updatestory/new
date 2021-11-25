@@ -3,10 +3,9 @@
 <atom:link href="http://feedproxy.google.com/yenisarkilarlistesidinle" type="application/rss+xml" rel="self"/>
 <copyright/>
 <link>https://open.spotify.com/show/33nfTYwhRMz0xHKpodgRVj</link>
-<language>en</language>
+<language>tr</language>
 <title>Müzik Dinle - 2020 En Güzel Türkçe Pop Müzikler Dinle</title>
 <description><![CDATA[ Türkçe pop müzikler dinleyebileceğiniz harika bir liste. ]]></description>
-<castbox:uid>40</castbox:uid><castbox:pid>40</castbox:pid><castbox:type/>
 <itunes:summary><![CDATA[ Türkçe pop müzikler dinleyebileceğiniz harika bir liste. ]]></itunes:summary><itunes:subtitle/>
 <itunes:author>Pippa Main</itunes:author>
 <itunes:owner><itunes:email>kertenkelede48@gmail.com</itunes:email></itunes:owner>
@@ -15,6 +14,7 @@
 <itunes:category text="Business">
 <itunes:category text="Marketing"/></itunes:category>
 <itunes:explicit>no</itunes:explicit>
+<itunes:type>episodic</itunes:type>
 <googleplay:author>Pippa Main</googleplay:author>
 <googleplay:image href="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaCsSsCgYFJhbcX2R_uF5JxJRl4Xv5I-4NmXYL0l9-zjeFDSC5"/>
 <googleplay:email>kertenkelede48@gmail.com</googleplay:email>
