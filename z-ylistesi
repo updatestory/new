@@ -1,6 +1,6 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
-<atom:link href="http://feedproxy.google.com/yenisarkilarlistesidinle" type="application/rss+xml" rel="self"/>
+<atom:link href="http://feedproxy.google.com/yenisarkilarlistesidinle" rel="self" type="application/rss+xml"/>
 <copyright/>
 <link>https://open.spotify.com/show/33nfTYwhRMz0xHKpodgRVj</link>
 <language>tr</language>
