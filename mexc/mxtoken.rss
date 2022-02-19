@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/global/feed/rss.xslt" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
+		<channel>
+				<ttl>60</ttl>
+
+				<generator>pippa.io</generator>
+
+				<title>Mx Token Nedir</title>
+
+				<link>https://acast.com/mx-token-nedir</link>
+
+			<atom:link href="https://feeds.acast.com/public/shows/61e9a794db3e1200140cee07" rel="self" type="application/rss+xml"/>
+				<language>tr</language>
+
+				<copyright>MXC</copyright>
+
+				<itunes:keywords>mx token nedir</itunes:keywords>
+
+				<itunes:author>Mexc Global</itunes:author>
+
+				<itunes:subtitle>Mx token nedir nereden alınır</itunes:subtitle>
+
+				<itunes:summary><![CDATA[<p>Mx token nedir? nereden nasıl satın alınır? Mx token mexc borsasının bir varlığıdır. Bu coini şuanda 3 kaliteli borsadan satın alabilirsiniz. Mx tokenın sağladığı avantajlar için tıklayın : <a href="https://acast.com/mx-token-nedir">https://acast.com/mx-token-nedir</a></p>]]></itunes:summary>
+
+				<description><![CDATA[<p>Mx token nedir? nereden nasıl satın alınır? Mx token mexc borsasının bir varlığıdır. Bu coini şuanda 3 kaliteli borsadan satın alabilirsiniz. Mx tokenın sağladığı avantajlar için tıklayın : <a href="https://acast.com/mx-token-nedir">https://acast.com/mx-token-nedir</a></p>]]></description>
+
+				<itunes:explicit>no</itunes:explicit>
+
+				<itunes:owner>
+					<itunes:name>Mexc Global</itunes:name>
+					<itunes:email>mexcguvenilirmi@gmail.com</itunes:email>
+</itunes:owner>
+
+				<acast:showId>303030</acast:showId>
+
+				<acast:showUrl>acast/episodes/acast</acast:showUrl>
+
+			<acast:signature key="EXAMPLE" algorithm="aes-cbc-200"><![CDATA[4684684848==]]></acast:signature>
+				<acast:settings><![CDATA[8SD1iHS+cS45kAyBbqv6GvNJkh8/scCMmxUJC4+GmWRIHG8e6W99otg22rJaMk5GWMvalzkS83ghdtcphUO6DUjZDJP+dKBjpgay1Fcehb+r9pWOU0AEk1WXG9lRC/V6ICvC18agTJdZCUgDxx47SQd7TuFLTvF2WqnyOXy+ukpNt415AtwkYphdN83AZQyk8zUxWDrZ3E8wOwFfet3oCTpInJ7dAFvOFV3XCtBYTHLyrgtKezpKsR1L83svL40Lb99oAJvB7WJa9wKzV5QRIKm9rA7FjtOFNStFfgdU+BSO6z1TqsBguQfOptJpq2HZwLdG3ZAuZvi/vEjc7vMdIRaJ38jChvmLGgeI0tKX9k2bBd6KV3q39I9zQY3Pn/osXhfCalzogx7h1rWIllQSqpMFR33nHwz1f1nE7jZzl0sQZUp6NmEkhxa6qjp0M+W6mWqI//G0EVsIBKz/4KordBSCOr1yyQBg0Lyn/UUYUgM=]]></acast:settings>
+
+				<itunes:type>episodic</itunes:type>
+
+			<itunes:image href="https://thumborcdn.acast.com/5-4CL6l-UqtZYltjD-WbauuPoMQ=/500x500/https%3A%2F%2Fassets.pippa.io%2Fshows%2Fundefined%2F1645278309913-a83c76077e2fc60e395f40850caa6f87.jpeg"/>
+				<image>
+					<url>https://thumborcdn.acast.com/5-4CL6l-UqtZYltjD-WbauuPoMQ=/500x500/https%3A%2F%2Fassets.pippa.io%2Fshows%2Fundefined%2F1645278309913-a83c76077e2fc60e395f40850caa6f87.jpeg</url>
+					<link>https://acast.com/mx-token-nedir</link>
+					<title>episode</title>
+</image>
+<item><title>episode</title><link>https://acast.com</link><pubDate>Sat, 19 Jan 2022 21:58:50 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
+			<itunes:category text="Business"/>
+</channel>
+
+</rss>
