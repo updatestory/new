@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/global/feed/rss.xslt" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
+		<channel>
+				<ttl>60</ttl>
+
+				<generator>pippa.io</generator>
+
+				<title>Mexc (Mexc) Güvenilir Mi</title>
+
+				<link>https://acast.com/mxc-mexc-guvenilir-mi</link>
+
+			<atom:link href="https://feeds.acast.com/public/shows/61e9a794db3e1200140cee07" rel="self" type="application/rss+xml"/>
+				<language>tr</language>
+
+				<copyright>MXC</copyright>
+
+				<itunes:keywords>mexc güvenilir mi</itunes:keywords>
+
+				<itunes:author>Mexc Global</itunes:author>
+
+				<itunes:subtitle>Mexc güvenilir mi değil mi</itunes:subtitle>
+
+				<itunes:summary><![CDATA[<p>Mexc Güvenilir mi? Amerika'nın en büyük kripto para borsalarından biri olan Mexc (MXC) borsası ne kadar güvenilir alım satım yapmalı mıyız işte detaylar. <a href="https://acast.com/mxc-mexc-guvenilir-mi">https://acast.com/mxc-mexc-guvenilir-mi</a></p>]]></itunes:summary>
+
+				<description><![CDATA[<p>Mexc Güvenilir mi? Amerika'nın en büyük kripto para borsalarından biri olan Mexc (MXC) borsası ne kadar güvenilir alım satım yapmalı mıyız işte detaylar. <a href="https://acast.com/mxc-mexc-guvenilir-mi">https://acast.com/mxc-mexc-guvenilir-mi</a>]]></description>
+
+				<itunes:explicit>no</itunes:explicit>
+
+				<itunes:owner>
+					<itunes:name>Mexc Global</itunes:name>
+					<itunes:email>mexcguvenilirmi@gmail.com</itunes:email>
+</itunes:owner>
+
+				<acast:showId>61e9a794db3e1200140cee07</acast:showId>
+
+				<acast:showUrl>acast/episodes/acast</acast:showUrl>
+
+			<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[IADbe14H5RFTn4S0tP7W7A==]]></acast:signature>
+				<acast:settings><![CDATA[8SD1iHS+cS45kAyBbqv6GvNJkh8/scCMmxUJC4+GmWRIHG8e6W99otg22rJaMk5GWMvalzkS83ghdtcphUO6DUjZDJP+dKBjpgay1Fcehb+r9pWOU0AEk1WXG9lRC/V6ICvC18agTJdZCUgDxx47SQd7TuFLTvF2WqnyOXy+ukpNt415AtwkYphdN83AZQyk8zUxWDrZ3E8wOwFfet3oCTpInJ7dAFvOFV3XCtBYTHLyrgtKezpKsR1L83svL40Lb99oAJvB7WJa9wKzV5QRIKm9rA7FjtOFNStFfgdU+BSO6z1TqsBguQfOptJpq2HZwLdG3ZAuZvi/vEjc7vMdIRaJ38jChvmLGgeI0tKX9k2bBd6KV3q39I9zQY3Pn/osXhfCalzogx7h1rWIllQSqpMFR33nHwz1f1nE7jZzl0sQZUp6NmEkhxa6qjp0M+W6mWqI//G0EVsIBKz/4KordBSCOr1yyQBg0Lyn/UUYUgM=]]></acast:settings>
+
+				<itunes:type>episodic</itunes:type>
+
+			<itunes:image href="https://thumborcdn.acast.com/ciWZiywSG_unKSS5juyAJJejtR8=/500x500/https%3A%2F%2Fassets.pippa.io%2Fshows%2Fundefined%2F1645206512786-7dd576e15ab91c03474a1bc5976953d6.jpeg"/>
+				<image>
+					<url>https://thumborcdn.acast.com/ciWZiywSG_unKSS5juyAJJejtR8=/500x500/https%3A%2F%2Fassets.pippa.io%2Fshows%2Fundefined%2F1645206512786-7dd576e15ab91c03474a1bc5976953d6.jpeg</url>
+					<link>https://acast.com/mxc-mexc-guvenilir-mi</link>
+					<title>episode</title>
+</image>
+			<itunes:category text="Business"/>
+</channel>
+
+</rss>
