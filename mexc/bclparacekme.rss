@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/global/feed/rss.xslt" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
+		<channel>
+				<ttl>60</ttl>
+
+				<generator>pippa.io</generator>
+
+				<title>Bitcoin Legend Para Çekme</title>
+
+				<link>https://acast.com/bitcoinlegendparacekme</link>
+
+			<atom:link href="http://feeds.feedburner.com/bclparacekme" rel="self" type="application/rss+xml"/>
+				<language>tr</language>
+
+				<copyright>Bitcoin Legend</copyright>
+
+				<itunes:keywords>bitcoin legend para çekme</itunes:keywords>
+
+				<itunes:author>Bitcoin Legend</itunes:author>
+
+				<itunes:subtitle>bitcoin legend para çekme</itunes:subtitle>
+
+				<itunes:summary><![CDATA[<p>Bitcoin legend para çekme , bitcoin legend uygulaması üzerinde elde ettiğiniz blc coinleri para olarak çekme nasıldır. Bitcoin legend blc'leri paraya çevirme kaynak :  <a href="https://acast.com/bitcoinlegendparacekme">https://acast.com/bitcoinlegendparacekme</a></p>]]></itunes:summary>
+
+				<description><![CDATA[<p>Bitcoin legend para çekme , bitcoin legend uygulaması üzerinde elde ettiğiniz blc coinleri para olarak çekme nasıldır. Bitcoin legend blc'leri paraya çevirme kaynak :  <a href="https://acast.com/bitcoinlegendparacekme">https://acast.com/bitcoinlegendparacekme</a></p>]]></description>
+
+				<itunes:explicit>no</itunes:explicit>
+
+				<itunes:owner>
+					<itunes:name>Bitcoin Legend</itunes:name>
+					<itunes:email>mexcguvenilirmi@gmail.com</itunes:email>
+</itunes:owner>
+
+				<acast:showId>505050</acast:showId>
+
+				<acast:showUrl>acast/episodes/acast</acast:showUrl>
+
+			<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[79es45Rp44+gObEYkh6Wvg==]]></acast:signature>
+				<acast:settings><![CDATA[KjgP/EK1n40qzQTkYw4K+k5ephjO417EPK8VCykgAwneHgsPUc7rp8bRxRRFpoHlp7Gt7Oswap5AlJBhQIqvwgYzE+0/fTXan2CNIkclaojzenA6nWDN616NyFUqwTbhLgGDQeml028kUfw8QBe0lrSSbdaVw/rKnFBZFpoKyHp6Qd/J967mRsLRzNG0BKtvac0wLG2sofXZi8PCw5cSyUNAsUaH1gCeQL2Zf/kKGyx93HDeXPdUbHnxhF34r7H9VMrWOpTfLg1C+DN9qnBA//v9frhqW6NeX1NI/UDKXvZ2wC54vwNdJDCAEByk/lForF2qq4EuXWD3sNLX4UDWDsmO+PkVgUdgTXgq2tCpPWb3UOQtVEvbXwk2nWxUD8giHFltywrBwmZmOpp86HNrwSCpeYf7pOclo3GVANgUCavIhofPTvxTzYhCAf3UsPRUqVF/JCTLsNw3WgatyMdjSe/OHnQCpwvck0wrud9soLI=]]></acast:settings>
+
+				<itunes:type>episodic</itunes:type>
+
+			<itunes:image href="https://thumborcdn.acast.com/dtSKZBFiXCo9tvZJuPSLtQGM7_o=/500x500/https%3A%2F%2Fassets.pippa.io%2Fshows%2Fundefined%2F1645451298860-485ba3ce6770c003049da51533a0bfc2.jpeg"/>
+				<image>
+					<url>https://thumborcdn.acast.com/dtSKZBFiXCo9tvZJuPSLtQGM7_o=/500x500/https%3A%2F%2Fassets.pippa.io%2Fshows%2Fundefined%2F1645451298860-485ba3ce6770c003049da51533a0bfc2.jpeg</url>
+					<link>https://acast.com/bitcoinlegendparacekme</link>
+					<title>episode</title>
+</image>
+<item><title>episode</title><link>https://acast.com</link><pubDate>Mon, 21 Jan 2022 20:13:52 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
+			<itunes:category text="Business"/>
+</channel>
+
+</rss>
