@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/global/feed/rss.xslt" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
+		<channel>
+				<ttl>60</ttl>
+
+				<generator>pippa.io</generator>
+
+				<title>Gate io Referans Kodu</title>
+
+				<link>https://acast.com/gateioreferanskodu</link>
+
+			<atom:link href="http://feeds.feedburner.com/gateioreferanskodu" rel="self" type="application/rss+xml"/>
+				<language>tr</language>
+
+				<copyright>Gate.io</copyright>
+
+				<itunes:keywords>Gate.io referans kodu</itunes:keywords>
+
+				<itunes:author>Gate.io</itunes:author>
+
+				<itunes:subtitle>Gate.io referans kodu</itunes:subtitle>
+
+				<itunes:summary><![CDATA[<p>Gate io referans kodu "9273177" Yeni projelerin ilk listelendiği gateio platformuna %30 komisyon indirimli üye olmak için referans kodumuzu kullanabilirsiniz. <a href="https://acast.com/gateioreferanskodu">https://acast.com/gateioreferanskodu</a></p>]]></itunes:summary>
+
+				<description><![CDATA[<p>Gate io referans kodu "9273177" Yeni projelerin ilk listelendiği gateio platformuna %30 komisyon indirimli üye olmak için referans kodumuzu kullanabilirsiniz. <a href="https://acast.com/gateioreferanskodu">https://acast.com/gateioreferanskodu</a></p>]]></description>
+
+				<itunes:explicit>no</itunes:explicit>
+
+				<itunes:owner>
+					<itunes:name>Gate.io</itunes:name>
+					<itunes:email>mexcguvenilirmi@gmail.com</itunes:email>
+</itunes:owner>
+
+				<acast:showId>707070</acast:showId>
+
+				<acast:showUrl>acast/episodes/acast</acast:showUrl>
+
+			<acast:signature key="EXAMPLE" algorithm="aes-cbc-200"><![CDATA[4684684848==]]></acast:signature>
+				<acast:settings><![CDATA[8SD1iHS+cS45kAyBbqv6GvNJkh8/scCMmxUJC4+GmWRIHG8e6W99otg22rJaMk5GWMvalzkS83ghdtcphUO6DUjZDJP+dKBjpgay1Fcehb+r9pWOU0AEk1WXG9lRC/V6ICvC18agTJdZCUgDxx47SQd7TuFLTvF2WqnyOXy+ukpNt415AtwkYphdN83AZQyk8zUxWDrZ3E8wOwFfet3oCTpInJ7dAFvOFV3XCtBYTHLyrgtKezpKsR1L83svL40Lb99oAJvB7WJa9wKzV5QRIKm9rA7FjtOFNStFfgdU+BSO6z1TqsBguQfOptJpq2HZwLdG3ZAuZvi/vEjc7vMdIRaJ38jChvmLGgeI0tKX9k2bBd6KV3q39I9zQY3Pn/osXhfCalzogx7h1rWIllQSqpMFR33nHwz1f1nE7jZzl0sQZUp6NmEkhxa6qjp0M+W6mWqI//G0EVsIBKz/4KordBSCOr1yyQBg0Lyn/UUYUgM=]]></acast:settings>
+
+				<itunes:type>episodic</itunes:type>
+
+			<itunes:image href="https://thumborcdn.acast.com/yfQH8IiWMOrhDVupyEdLj4jPaWs=/500x500/https%3A%2F%2Fassets.pippa.io%2Fshows%2F620d539d1b88290012e35660%2F1645537387323-7d94c5fe4dbb48013c2aeff9bea07ab0.jpeg"/>
+				<image>
+					<url>https://thumborcdn.acast.com/yfQH8IiWMOrhDVupyEdLj4jPaWs=/500x500/https%3A%2F%2Fassets.pippa.io%2Fshows%2F620d539d1b88290012e35660%2F1645537387323-7d94c5fe4dbb48013c2aeff9bea07ab0.jpeg</url>
+					<link>https://acast.com/gateioreferanskodu</link>
+					<title>episode</title>
+</image>
+<item><title>episode</title><link>https://acast.com</link><pubDate>Thu, 03 Mar 2022 20:14:15 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
+			<itunes:category text="Business"/>
+</channel>
+
+</rss>
