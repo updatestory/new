@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/global/feed/rss.xslt" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
+		<channel>
+				<ttl>60</ttl>
+
+				<generator>pippa.io</generator>
+
+				<title>Bitcoin Legend Kyc Doğrulama</title>
+
+				<link>https://play.acast.com/s/bitcoinlegendkycdogrulamasi</link>
+
+			<atom:link href="http://feeds.feedburner.com/bitcoinlegendkycdogrulamasi" rel="self" type="application/rss+xml"/>
+				<language>tr</language>
+
+				<copyright>Bitcoin Legend</copyright>
+
+				<itunes:keywords>Bitcoin Legend KYC</itunes:keywords>
+
+				<itunes:author>Bitcoin Legend</itunes:author>
+
+				<itunes:subtitle>Bitcoin Legend kyc nedir nasıl doğrulanır</itunes:subtitle>
+
+				<itunes:summary><![CDATA[<p>Bitcoin Legend kyc doğrulama işlemi ne zaman başlayacak ve nasıl yapılacak tüm detaylarını ilgili sayfamızda sizlere anlatmaya çalıştık. Şuradan okuyabilirsiniz <a href="https://play.acast.com/s/bitcoinlegendkycdogrulamasi">https://play.acast.com/s/bitcoinlegendkycdogrulamasi</a></p>]]></itunes:summary>
+
+				<description><![CDATA[<p>Bitcoin Legend kyc doğrulama işlemi ne zaman başlayacak ve nasıl yapılacak tüm detaylarını ilgili sayfamızda sizlere anlatmaya çalıştık. Şuradan okuyabilirsiniz <a href="https://play.acast.com/s/bitcoinlegendkycdogrulamasi">https://play.acast.com/s/bitcoinlegendkycdogrulamasi</a></p>]]></description>
+
+				<itunes:explicit>no</itunes:explicit>
+
+				<itunes:owner>
+					<itunes:name>Bitcoin Legend</itunes:name>
+					<itunes:email>mexcguvenilirmi@gmail.com</itunes:email>
+</itunes:owner>
+
+				<acast:showId>909090</acast:showId>
+
+				<acast:showUrl>acast/episodes/acast</acast:showUrl>
+
+			<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[DgIWYygLld5WG3jlxSrJJA==]]></acast:signature>
+				<acast:settings><![CDATA[n8FUrj8bAAbVP1VcmGR7oaUQP4/YAKnteJoIKtALF69uQ1RfxosHM4TEHBCAPmVyqdQMLyVoruvvSV+IkAzwuhmGAzx1ZiSuhgY7W56/bg5yBn+PvfL9kyQhEUh+4P1v8tjs2EZwqUk/hrDUaeAGbd7WpwO1gXKb3Ao1YO2TVFcwmGYF3Z2nl2eCTelAn8HJI5C8KkW6ekLyI2PbyhznP8hSTfUvuuF1ioQfn8bhdoTRSjp7Norg27ooHpIAxQS5oA57pbdQgczFxc7Bb5LyUgSXBg0bXDnitzIOPTWpOc0cWv0ofNny8kEeJZYSC+xTbVHT0Cg1PEYvxsC8a5GIPPNUcVOj84BOThEvvUtR4+0rWdoG375TpDZFkOXAkyPROLODGs2nYOzafirDnUihRNyLe4PzvCnb4zBM2ID2LVIdwlikn/o5megd8caQkoRo0SNrywneE4dj7iWNyqitcao4EI2qiG/7MdpHuSjKoGE=]]></acast:settings>
+
+				<itunes:type>episodic</itunes:type>
+
+			<itunes:image href="https://thumborcdn.acast.com/pLDQzDI3NhxTSDVmQAJORvrMuW0=/500x500/https%3A%2F%2Fassets.pippa.io%2Fshows%2Fundefined%2F1646603284605-acfb03087b134b1091f684e1d13b52b7.jpeg"/>
+				<image>
+					<url>https://thumborcdn.acast.com/pLDQzDI3NhxTSDVmQAJORvrMuW0=/500x500/https%3A%2F%2Fassets.pippa.io%2Fshows%2Fundefined%2F1646603284605-acfb03087b134b1091f684e1d13b52b7.jpeg</url>
+					<link>https://play.acast.com/s/bitcoinlegendkycdogrulamasi</link>
+					<title>episode</title>
+</image>
+<item><title>episode</title><link>https://play.acast.com</link><pubDate>Mon, 07 Mar 2022 13:20:25 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
+			<itunes:category text="Business"/>
+</channel>
+
+</rss>
