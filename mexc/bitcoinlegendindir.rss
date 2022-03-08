@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/global/feed/rss.xslt" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
+		<channel>
+				<ttl>60</ttl>
+
+				<generator>pippa.io</generator>
+
+				<title>Bitcoin Legend İndir</title>
+
+				<link>https://www.acast.com/bitcoinlegendindir</link>
+
+			<atom:link href="http://feeds.feedburner.com/bitcoinlegendindir" rel="self" type="application/rss+xml"/>
+				<language>tr</language>
+
+				<copyright>Bitcoin Legend</copyright>
+
+				<itunes:keywords>Bitcoin Legend indir</itunes:keywords>
+
+				<itunes:author>Bitcoin Legend</itunes:author>
+
+				<itunes:subtitle>Bitcoin Legend uygulaması indir</itunes:subtitle>
+
+				<itunes:summary><![CDATA[<p>Bitcoin Legend uygulamasını indirmek için google play store ve app store linkleri bilgileri ekte paylaşılmıştır. Hemen indirerek blc coin kazımına başlayabilirsiniz. Kaynak : <a href="https://www.acast.com/bitcoinlegendindir">https://www.acast.com/bitcoinlegendindir</a></p>]]></itunes:summary>
+
+				<description><![CDATA[<p>Bitcoin Legend uygulamasını indirmek için google play store ve app store linkleri bilgileri ekte paylaşılmıştır. Hemen indirerek blc coin kazımına başlayabilirsiniz. Kaynak : <a href="https://www.acast.com/bitcoinlegendindir">https://www.acast.com/bitcoinlegendindir</a></p>]]></description>
+
+				<itunes:explicit>no</itunes:explicit>
+
+				<itunes:owner>
+					<itunes:name>Bitcoin Legend</itunes:name>
+					<itunes:email>mexcguvenilirmi@gmail.com</itunes:email>
+</itunes:owner>
+
+				<acast:showId>100000</acast:showId>
+
+				<acast:showUrl>acast/episodes/acast</acast:showUrl>
+
+			<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[PdfVO0faMWujMusGJnD93w==]]></acast:signature>
+				<acast:settings><![CDATA[WDPqav24c2OhN08RqDXBUvf9saAIe8IwozsF4JgoLtpUQLtsyz64+V0P1rwy2Tn4xgUQ5coxYEFpsecuc79qM+iHKmXfNsVVdHjgw/dEd/AVNXqkfaaFIWfEcn+VCPfPvFAhvuIWLGiDz+xgNwD32lab8su7UW2kYWUzdKs1ZAJYQFxtHpIValZ4dEQdJzO2kqbJEQczpjgIibM4bc6D+tquKOHEyXOF2/mi/l4pDj23nSZuuon0r0eeBmmhRgLilz+QfNqrUUl5CRm90F4W0IMx80raBfkdZ/AQSontn+6+69U3zfkykoht57slljFub8yNLCYYZFzbpZgexG/NpisgQOVJ4Rvtymx6mWXsMCaYOdaG3KrND9+AaPhaz8OasVoUha/7UDLXkOVnENUPqcWYVRfKQEZlBpbwluKp2/fisy0mjXnRJ+/SAwZ5stevoYROOVTb8Ht6t1YGLHczdMQd6RphPaQjhQ8gTPyQNIQ=]]></acast:settings>
+
+				<itunes:type>episodic</itunes:type>
+
+			<itunes:image href="https://thumborcdn.acast.com/pLDQzDI3NhxTSDVmQAJORvrMuW0=/500x500/https%3A%2F%2Fassets.pippa.io%2Fshows%2Fundefined%2F1646603284605-acfb03087b134b1091f684e1d13b52b7.jpeg"/>
+				<image>
+					<url>https://thumborcdn.acast.com/pLDQzDI3NhxTSDVmQAJORvrMuW0=/500x500/https%3A%2F%2Fassets.pippa.io%2Fshows%2Fundefined%2F1646603284605-acfb03087b134b1091f684e1d13b52b7.jpeg</url>
+					<link>https://www.acast.com/bitcoinlegendindir</link>
+					<title>episode</title>
+</image>
+<item><title>episode</title><link>https://www.acast.com</link><pubDate>Tue, 08 Mar 2022 15:10:11 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
+<itunes:category text="Business"/>
+</channel>
+
+</rss>
