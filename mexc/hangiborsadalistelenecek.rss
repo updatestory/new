@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/global/feed/rss.xslt" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
+		<channel>
+				<ttl>60</ttl>
+
+				<generator>pippa.io</generator>
+
+				<title>Coin Hangi Borsada</title>
+
+				<link>https://www.gate.io/tr/signup/9273177</link>
+
+			<atom:link href="http://feeds.feedburner.com/DexerFull" rel="self" type="application/rss+xml"/>
+				<language>tr</language>
+
+				<copyright>Coin Hangi Borsada</copyright>
+
+				<itunes:keywords>coin, hangi borsada, hangi borsada listelenecek, nereden alınır, nasıl alınır, satın al, ne zaman listelenecek</itunes:keywords>
+
+				<itunes:author>Coin Hangi Borsada</itunes:author>
+
+				<itunes:subtitle>Yeni çıkan coinler hangi borsada listelenecek.</itunes:subtitle>
+
+				<itunes:summary><![CDATA[<p>Yeni çıkan coinler hangi borsada listelenecek nereden nasıl alır alt başlıklar halinde görebilirsiniz. Coin almadan önce hangi borsada listeli olduğundan ve listeneceği borsalardan haberdar olmak oldukça önemlidir. <a href="https://www.gate.io/tr/signup/9273177">gate io kayıt ol</a></p>]]></itunes:summary>
+
+				<description><![CDATA[<p>Yeni çıkan coinler hangi borsada listelenecek nereden nasıl alır alt başlıklar halinde görebilirsiniz. Coin almadan önce hangi borsada listeli olduğundan ve listeneceği borsalardan haberdar olmak oldukça önemlidir. <a href="https://www.gate.io/tr/signup/9273177">gate io kayıt ol</a></p>]]></description>
+
+				<itunes:explicit>no</itunes:explicit>
+
+				<itunes:owner>
+					<itunes:name>Coin Hangi Borsada</itunes:name>
+					<itunes:email>info@gate.io</itunes:email>
+</itunes:owner>
+
+				<acast:showId>1111111</acast:showId>
+
+				<acast:showUrl>acast/episodes/acast</acast:showUrl>
+
+			<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[AdWnhaxQunZnwud+OvIGyw==]]></acast:signature>
+				<acast:settings><![CDATA[vFMGnqCJXgTbq1CUDjTPG/Y7jbu2atCuhIejkLpJJhLHKTH5UalVi54fFkH56HYTuYuwbNS/dpfFAIBAH9tLVd1nTj/qGndc9qSW3muhxr4BM/pf+VrZjxGDkwWCRbHuLsGLLFbBRT7107beXwzqnN8TPmYcYrnGlGU51IRMBz6brag5RDijYrHqrNDQ6RTMBjFzVnQnAVpNS/NEkdbhcxpbz4rRLrWqglTp7MD6jOuc/KMysNpL2MMcFjnl9QnRstiTcQaftO3Oj7I+rbkdmFn0KVy7SkEJlDUQqedpxFRzZrhKGR5LP0vLSpTzjsDy/fJfDh+RgjnyVquCOXQkMh1SCK3uGSqkkuCEmCDeGbnMIGrjAd5JRXBM0aGbJDYWy9GMmZvDyuivGaONLKLPVn0tHUTJFx7YqxQw6KgXYN438mV54LHgIr/44hPFOwUQXUc5YcHg/zA0FeOHQgQ2K7oRxcQopTKYJ4/IHiJ+snw=]]></acast:settings>
+
+				<itunes:type>episodic</itunes:type>
+
+			<itunes:image href="https://open-static.acast.com/app/1988f448/images/default-cover.png"/>
+				<image>
+					<url>https://open-static.acast.com/app/1988f448/images/default-cover.png</url>
+					<link>https://www.gate.io/tr/signup/9273177</link>
+					<title>episode</title>
+</image>
+<item><title>Azero Aleph Zero Coin Hangi Borsalarda Var</title><link>https://acast.com</link><pubDate>Sat, 19 Mar 2022 16:30:15 +0000</pubDate><description><![CDATA[ <p><p>&nbsp;Azero, Aleph Zero coin listelendi. Azero coini hemen aşağıda yer alan borsalar aracılığıyla satın alabilirsiniz.</p><p><span style="background-color: white; font-family: Inter, -apple-system, BlinkMacSystemFont, &quot;segoe ui&quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 14px;">✅ Azero coin aşağıda yer alan borsalarda listeleniyor.</span></p><p><a href="https://www.gate.io/tr/signup/9273177"><b>Gate io borsasından %30 komisyon indirimiyle satın al</b></a></p><p><a href="https://www.mexc.com/register?inviteCode=mexc-50"><b>Mexc borsasından %10 komisyon indirimiyle satın al</b></a></p></p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
+			<itunes:category text="Business"/>
+</channel>
+
+</rss>
