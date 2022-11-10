@@ -1,0 +1,34 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://media.rss.com/style.xsl"?>
+<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+  <channel>
+    <title><![CDATA[Referans Kodu]]></title>
+    <link>https://bit.ly/referans-kodu</link>
+    <atom:link href="https://feeds.feedburner.com/referansapple" rel="self" type="application/rss+xml"/>
+    <atom:link rel="hub" href="https://hub.livewire.io/"/>
+    <description><![CDATA[Referans Kodu, kripto para borsalarında geçerli en güncel referans kodları. Kripto para borsalarına üye olmadan referans kodu almanız gerekir. Bunun için ya bir arkadaşınızın size kod yollaması ya da daha önceden borsaya kayıtlı kişilerin referans kodunu kullanmanız gerekir. Bunun için daha önceden seçilmiş referans kodlarını kullanabilirsiniz.  <a href='https://bit.ly/referans-kodu'>referans kodu</a> - <a href='https://feed.podbean.com/refkodu/feed.xml'>referans kodu</a>]]></description>
+    <generator>RSS.com v2.2.2</generator>
+    <lastBuildDate>Thu, 10 Nov 2022 16:20:17 GMT</lastBuildDate>
+    <language>tr</language>
+    <copyright><![CDATA[refkodu]]></copyright>
+    <itunes:image href="https://refkodu.com/wp-content/uploads/2022/11/31dAFXg5jYL-scaled.jpg"/>
+    <image>
+      <url>https://refkodu.com/wp-content/uploads/2022/11/31dAFXg5jYL-scaled.jpg</url>
+      <title>Referans Kodu</title>
+      <link>https://bit.ly/referans-kodu</link>
+    </image>
+    <itunes:summary><![CDATA[Referans Kodu, kripto para borsalarında geçerli en güncel referans kodları. Kripto para borsalarına üye olmadan referans kodu almanız gerekir. Bunun için ya bir arkadaşınızın size kod yollaması ya da daha önceden borsaya kayıtlı kişilerin referans kodunu kullanmanız gerekir. Bunun için daha önceden seçilmiş referans kodlarını kullanabilirsiniz.  <a href='https://bit.ly/referans-kodu'>referans kodu</a> - <a href='https://feed.podbean.com/refkodu/feed.xml'>referans kodu</a>]]></itunes:summary>
+    <podcast:locked owner="carlclarksonalpha@gmail.com">yes</podcast:locked>
+    <itunes:author>starnetwork</itunes:author>
+    <itunes:owner>
+      <itunes:name>refkodu</itunes:name>
+      <itunes:email>carlclarksonalpha@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Business">
+      <itunes:category text="Entrepreneurship"/>
+    </itunes:category>
+  </channel>
+</rss>
