@@ -1,0 +1,46 @@
+<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+<channel>
+<title>
+<![CDATA[ Podcast Maceram ]]>
+</title>
+<link>https://podcasts.google.com</link>
+<atom:link href="https://feeds.acast.com/public/shows/2020-sarkilar-indir" rel="self" type="application/rss+xml"/>
+<description>
+<![CDATA[ Bu podcast serüvenimizde sizleri de yanımızda görmekten keyif duyarız. ]]>
+</description>
+<generator>RSS.com v1.0.20</generator>
+<lastBuildDate>Thu, 18 Nov 2021 23:53:46 GMT</lastBuildDate>
+<language>tr</language>
+<copyright>
+<![CDATA[ ozelseri 2021 ]]>
+</copyright>
+<itunes:image href="https://assets.rss.com/images/no-cover-1400.jpg"/>
+<image>
+<url>https://assets.rss.com/images/no-cover-1400.jpg</url>
+<title>Podcast Maceram</title>
+<link>https://podcasts.google.com</link>
+</image>
+<itunes:summary>
+<![CDATA[ Bu podcast serüvenimizde sizleri de yanımızda görmekten keyif duyarız. ]]>
+</itunes:summary>
+<podcast:locked owner="info@sitecimisinizdegilmi.com">Yes</podcast:locked>
+<itunes:author>ozelseri</itunes:author>
+<itunes:owner>
+<itunes:name>ozelseri</itunes:name>
+<itunes:email>hizlilink@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<itunes:category text="Business">
+<itunes:category text="Marketing"/>
+</itunes:category>
+<item><title>gatetr güven </title><link>https://podfollow.com/gate-io-kayit-ol/episode/ebf1992de5c1e555198c7542a70416d7c104e114/view</link><pubDate>Fri, 02 Dec 2022 13:06:56 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
+<item><title>gatetr kaydol</title><link>https://podfollow.com/gate-io-kayit-ol/episode/76ab4152d07ce365bf9d6055702f7278c991b4cf/view</link><pubDate>Fri, 02 Dec 2022 13:01:44 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
+<item><title>gatetr transfer</title><link>https://podfollow.com/gate-io-kayit-ol/episode/a2ea3cb2073cdebf14bf21a62e739effe8389a51/view</link><pubDate>Thu, 01 Dec 2022 23:35:30 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
+<item><title>gatetr kaydol</title><link>https://gate.com.tr/tr/signup/12760194</link><pubDate>Thu, 01 Dec 2022 23:36:28 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
+<item><title>gate cekme</title><link>https://podfollow.com/gate-io-kayit-ol/episode/541be13c790b515aabbcced204469b4ee1111e5f/view</link><pubDate>Thu, 01 Dec 2022 23:25:36 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
+<item><title>gate yeni</title><link>https://gate.com.tr/signup/12760194</link><pubDate>Thu, 01 Dec 2022 22:46:21 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
+<item><title>hosgeldin</title><link>https://podfollow.com/1609601287/episode/eafdbe6eddc417b492c6a69402b28aea8ff80d2e/view</link><pubDate>Thu, 01 Dec 2022 19:23:20 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
+<item><title>gatetr</title><link>https://podfollow.com/gate-io-kayit-ol/episode/71bd443d84668e125500d08b91f498524326f0f0/view</link><pubDate>Thu, 01 Dec 2022 19:15:26 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
+</channel>
+</rss>
