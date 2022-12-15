@@ -1,0 +1,39 @@
+<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+<channel>
+<title>
+<![CDATA[ Podcast Maceram ]]>
+</title>
+<link>https://podcasts.google.com</link>
+<atom:link href="https://feeds.acast.com/public/shows/2020-sarkilar-indir" rel="self" type="application/rss+xml"/>
+<description>
+<![CDATA[ Bu podcast serüvenimizde sizleri de yanımızda görmekten keyif duyarız. ]]>
+</description>
+<generator>RSS.com v1.0.20</generator>
+<lastBuildDate>Thu, 18 Nov 2021 23:53:46 GMT</lastBuildDate>
+<language>tr</language>
+<copyright>
+<![CDATA[ ozelseri 2021 ]]>
+</copyright>
+<itunes:image href="https://assets.rss.com/images/no-cover-1400.jpg"/>
+<image>
+<url>https://assets.rss.com/images/no-cover-1400.jpg</url>
+<title>Podcast Maceram</title>
+<link>https://podcasts.google.com</link>
+</image>
+<itunes:summary>
+<![CDATA[ Bu podcast serüvenimizde sizleri de yanımızda görmekten keyif duyarız. ]]>
+</itunes:summary>
+<podcast:locked owner="info@sitecimisinizdegilmi.com">Yes</podcast:locked>
+<itunes:author>ozelseri</itunes:author>
+<itunes:owner>
+<itunes:name>ozelseri</itunes:name>
+<itunes:email>hizlilink@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<itunes:category text="Business">
+<itunes:category text="Marketing"/>
+</itunes:category>
+<item><title>takipce</title><link>https://bit.ly/takipci-satin-al-takipci-dukkani</link><pubDate>Thu, 15 Dec 2022 23:05:46 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
+</channel>
+</rss>
