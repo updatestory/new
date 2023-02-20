@@ -5,7 +5,7 @@
 <channel>
 <ttl>60</ttl>
 <generator>pippa.io</generator>
-<title>Özel Podcast 2021!</title>
+<title>Özel Podcast 2023!</title>
 <link>https://podbay.fm/chart/news/episodes</link>
 <atom:link href="https://raw.githubusercontent.com/updatestory/new/main/podcastsxx.rss" rel="self" type="application/rss+xml"/>
 <language>tr</language>
@@ -13,8 +13,8 @@
 <itunes:keywords/>
 <itunes:author>Podcast Yayıncısı</itunes:author>
 <itunes:subtitle>Bu podcast bölümümüzde sizlere en iyi içerikleri ve zenginlikleri sunmaya çalıştık dileriz keyif alırsınız.</itunes:subtitle>
-<itunes:summary><![CDATA[Özel 2021 podcast'in yeni bölümlerini ve içeriklerini kaçırmamak için bu yayını takipte kalın. Yılın en iyi seçmeleri ve en iyi yayınları sürekli burada sizlerle olmaya devam edecek.]]></itunes:summary>
-<description><![CDATA[Özel 2021 podcast'in yeni bölümlerini ve içeriklerini kaçırmamak için bu yayını takipte kalın. Yılın en iyi seçmeleri ve en iyi yayınları sürekli burada sizlerle olmaya devam edecek.]]></description>
+<itunes:summary><![CDATA[Özel 2023 podcast'in yeni bölümlerini ve içeriklerini kaçırmamak için bu yayını takipte kalın. Yılın en iyi seçmeleri ve en iyi yayınları sürekli burada sizlerle olmaya devam edecek.]]></itunes:summary>
+<description><![CDATA[Özel 2023 podcast'in yeni bölümlerini ve içeriklerini kaçırmamak için bu yayını takipte kalın. Yılın en iyi seçmeleri ve en iyi yayınları sürekli burada sizlerle olmaya devam edecek.]]></description>
 <itunes:explicit>no</itunes:explicit>
 <itunes:owner>
 <itunes:name>Podcast Yayıncısı</itunes:name>
