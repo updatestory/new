@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/global/feed/rss.xslt" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
+		<channel>
+				<ttl>60</ttl>
+
+				<generator>pippa.io</generator>
+
+				<title>Mxc Referans Kodu</title>
+
+				<link>https://refkodu.com/mexc-referans-kodu</link>
+
+			<atom:link href="http://feeds.feedburner.com/mxc-referans-kodu" rel="self" type="application/rss+xml"/>
+				<language>tr</language>
+
+				<copyright>Mxc</copyright>
+
+				<itunes:keywords>mxc referans kodu</itunes:keywords>
+
+				<itunes:author>Mxc</itunes:author>
+
+				<itunes:subtitle>Mxc referans kodu</itunes:subtitle>
+
+				<itunes:summary><![CDATA[<p>Mxc referans kodu: mexc-40 MXC referans kodu kullanırken nelere dikkat etmek gerekir? Kullanıcıların MXC referans kodlarını paylaşırken güvenli bir şekilde paylaşmaları ve spam olarak kullanmamaları önemlidir. Website : <a href="https://refkodu.com/mexc-referans-kodu">https://refkodu.com/mexc-referans-kodu</a></p>]]></itunes:summary>
+
+				<description><![CDATA[<p>Mxc referans kodu: mexc-40 MXC referans kodu kullanırken nelere dikkat etmek gerekir? Kullanıcıların MXC referans kodlarını paylaşırken güvenli bir şekilde paylaşmaları ve spam olarak kullanmamaları önemlidir. Website : <a href="https://refkodu.com/mexc-referans-kodu">https://refkodu.com/mexc-referans-kodu</a></p>]]></description>
+
+				<itunes:explicit>no</itunes:explicit>
+
+				<itunes:owner>
+					<itunes:name>Mxc</itunes:name>
+					<itunes:email>mexcguvenilirmi@gmail.com</itunes:email>
+</itunes:owner>
+
+				<acast:showId>303030</acast:showId>
+
+				<acast:showUrl>acast/episodes/acast</acast:showUrl>
+
+			<acast:signature key="EXAMPLE" algorithm="aes-cbc-200"><![CDATA[4684684848==]]></acast:signature>
+				<acast:settings><![CDATA[8SD1iHS+cS45kAyBbqv6GvNJkh8/scCMmxUJC4+GmWRIHG8e6W99otg22rJaMk5GWMvalzkS83ghdtcphUO6DUjZDJP+dKBjpgay1Fcehb+r9pWOU0AEk1WXG9lRC/V6ICvC18agTJdZCUgDxx47SQd7TuFLTvF2WqnyOXy+ukpNt415AtwkYphdN83AZQyk8zUxWDrZ3E8wOwFfet3oCTpInJ7dAFvOFV3XCtBYTHLyrgtKezpKsR1L83svL40Lb99oAJvB7WJa9wKzV5QRIKm9rA7FjtOFNStFfgdU+BSO6z1TqsBguQfOptJpq2HZwLdG3ZAuZvi/vEjc7vMdIRaJ38jChvmLGgeI0tKX9k2bBd6KV3q39I9zQY3Pn/osXhfCalzogx7h1rWIllQSqpMFR33nHwz1f1nE7jZzl0sQZUp6NmEkhxa6qjp0M+W6mWqI//G0EVsIBKz/4KordBSCOr1yyQBg0Lyn/UUYUgM=]]></acast:settings>
+
+				<itunes:type>episodic</itunes:type>
+
+			<itunes:image href="https://cdn.ko-fi.com/cdn/useruploads/display/30f06299-2606-4763-9432-aed1fa374038_mxc-referans-kodu.jpg"/>
+				<image>
+					<url>https://cdn.ko-fi.com/cdn/useruploads/display/30f06299-2606-4763-9432-aed1fa374038_mxc-referans-kodu.jpg</url>
+					<link>https://refkodu.com/mexc-referans-kodu</link>
+					<title>episode</title>
+</image>
+			<itunes:category text="Business"/>
+</channel>
+
+</rss>
