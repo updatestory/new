@@ -1,10 +1,10 @@
-<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
 <channel>
 <title>
 <![CDATA[ Podcast Maceram ]]>
 </title>
-<link>https://podcasts.google.com</link>
-<atom:link href="https://feeds.acast.com/public/shows/2020-sarkilar-indir" rel="self" type="application/rss+xml"/>
+https://podcasts.google.com
+https://feeds.acast.com/public/shows/2020-sarkilar-indir" rel="self" type="application/rss+xml"/>
 <description>
 <![CDATA[ Bu podcast serüvenimizde sizleri de yanımızda görmekten keyif duyarız. ]]>
 </description>
@@ -14,11 +14,11 @@
 <copyright>
 <![CDATA[ ozelseri 2021 ]]>
 </copyright>
-<itunes:image href="https://assets.rss.com/images/no-cover-1400.jpg"/>
+https://assets.rss.com/images/no-cover-1400.jpg"/>
 <image>
-<url>https://assets.rss.com/images/no-cover-1400.jpg</url>
+https://assets.rss.com/images/no-cover-1400.jpg
 <title>Podcast Maceram</title>
-<link>https://podcasts.google.com</link>
+https://podcasts.google.com
 </image>
 <itunes:summary>
 <![CDATA[ Bu podcast serüvenimizde sizleri de yanımızda görmekten keyif duyarız. ]]>
@@ -34,6 +34,13 @@
 <itunes:category text="Business">
 <itunes:category text="Marketing"/>
 </itunes:category>
+<item><title>ifade</title><link>https://dergipark.org.tr/tr/pub/@mexcreferanskodu</link><pubDate>Wed, 11 Jul 2023 11:37:30 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
+<item><title>ifade</title><link>https://www.360cities.net/profile/mxcreferanskodu</link><pubDate>Wed, 11 Jul 2023 11:37:30 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
+<item><title>ifade</title><link>https://invitation.codes/@mxcreferanskodu</link><pubDate>Wed, 11 Jul 2023 11:37:30 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
+<item><title>ifade</title><link>https://www.gbig.org/org_profiles/32251</link><pubDate>Wed, 11 Jul 2023 11:37:30 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
+<item><title>ifade</title><link>https://mexcreferanskodu.web.tv/</link><pubDate>Wed, 11 Jul 2023 11:37:30 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
+<item><title>ifade</title><link>https://1businessworld.com/company/mexc-referans-kodu/</link><pubDate>Wed, 11 Jul 2023 11:37:30 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
+<item><title>ifade</title><link>https://player.soundon.fm/p/87fd9ca0-1445-426a-bac4-559c7982062d</link><pubDate>Wed, 11 Jul 2023 11:37:30 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
 <item><title>yineyeni</title><link>https://startupcentrum.com/tr/girisim/mexc-referans-kodu</link><pubDate>Tue, 11 Jul 2023 13:42:40 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
 <item><title>yineyeni</title><link>https://www.crunchbase.com/organization/mexc-referans-kodu-5f5c</link><pubDate>Tue, 11 Jul 2023 13:42:40 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
 <item><title>yineyeni</title><link>https://podfollow.com/1606222142/episode/64dc436c1ddd2147aae0c3cd8685b3302d9580f5/view</link><pubDate>Tue, 11 Jul 2023 13:42:40 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
