@@ -1,24 +1,24 @@
-https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
 <channel>
 <title>
 <![CDATA[ Podcast Maceram ]]>
 </title>
-https://podcasts.google.com
-https://feeds.acast.com/public/shows/2020-sarkilar-indir" rel="self" type="application/rss+xml"/>
+<link>https://podcasts.google.com</link>
+<atom:link href="https://feeds.acast.com/public/shows/2020-sarkilar-indir" rel="self" type="application/rss+xml"/>
 <description>
 <![CDATA[ Bu podcast serüvenimizde sizleri de yanımızda görmekten keyif duyarız. ]]>
 </description>
 <generator>RSS.com v1.0.20</generator>
-<lastBuildDate>Tue, 08 Aug 2023 00:17:24 GMT</lastBuildDate>
+<lastBuildDate>Thu, 10 Aug 2023 15:00:01 GMT</lastBuildDate>
 <language>tr</language>
 <copyright>
 <![CDATA[ ozelseri 2021 ]]>
 </copyright>
-https://assets.rss.com/images/no-cover-1400.jpg"/>
+<itunes:image href="https://assets.rss.com/images/no-cover-1400.jpg"/>
 <image>
-https://assets.rss.com/images/no-cover-1400.jpg
+<url>https://assets.rss.com/images/no-cover-1400.jpg</url>
 <title>Podcast Maceram</title>
-https://podcasts.google.com
+<link>https://podcasts.google.com</link>
 </image>
 <itunes:summary>
 <![CDATA[ Bu podcast serüvenimizde sizleri de yanımızda görmekten keyif duyarız. ]]>
