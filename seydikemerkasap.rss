@@ -1,7 +1,5 @@
 
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="/global/feed/rss.xslt" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
+<?xml version="1.0" encoding="utf-8" standalone="no"?><?xml-stylesheet type="text/xsl" href="/global/feed/rss.xslt" ?><rss xmlns:acast="https://schema.acast.com/1.0/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" version="2.0">
 		<channel>
 				<ttl>60</ttl>
 
@@ -16,29 +14,26 @@
 
 				<copyright>Seydikemer Kasap - Çınar Et</copyright>
 
-				<itunes:keywords>seydikemer kasap,seydikemer çınar et,seydikemer kasabı</itunes:keywords>
+				<itunes:keywords>seydikemer kasap,seydikemer çınar et,seydikemer kasabı, seydikemer et</itunes:keywords>
 
 				<itunes:author>Seydikemer Kasap - Çınar Et</itunes:author>
 
-				<itunes:subtitle/>
+				<itunes:subtitle>&lt;p&gt;Seydikemer Kasap, Telefon : 0536 561 8834 Çınar Et, kalitenin, uygun fiyatın ve helal kesimin adresi. Seydikemer Kasap, et ve tavuk ürünlerindeki kalite, uygun fiyat, helal kesim, ve güveni bir araya getiriyor. Her damak zevkine hitap eden çeşitlilikte</itunes:subtitle>
 
-				<itunes:summary><![CDATA[<p>Seydikemer Kasap, Telefon : 0536 561 8834 Çınar Et, kalitenin, uygun fiyatın ve helal kesimin adresi. Seydikemer Kasap, et ve tavuk ürünlerindeki kalite, uygun fiyat, helal kesim, ve güveni bir araya getiriyor. Her damak zevkine hitap eden çeşitlilikteki ürünleriyle Seydikemer kasap Çınar et, lezzeti bütçenizi zorlamadan sunuyor. Helal kesim ve hijyenik koşullarda üretim yapan kasaplarımız, müşterilerine güvence ve tatmin sağlıyor. Seydikemer Çınar et, yemeklerinize lezzet ve güvence katıyor. Hemen arayın etinizi kapınıza kadar getirelim. Adres: Güneşli mahallesi, saklıkent caddesi, no:114</p><br><p>website: <a href="https://sites.google.com/view/seydikemerkasap/" rel="noopener noreferrer" target="_blank"><strong>https://sites.google.com/view/seydikemerkasap/</strong></a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+				<itunes:summary>&lt;p&gt;Seydikemer Kasap, Telefon : 0536 561 8834 Çınar Et, kalitenin, uygun fiyatın ve helal kesimin adresi. Seydikemer Kasap, et ve tavuk ürünlerindeki kalite, uygun fiyat, helal kesim, ve güveni bir araya getiriyor. Her damak zevkine hitap eden çeşitlilikteki ürünleriyle Seydikemer kasap Çınar et, lezzeti bütçenizi zorlamadan sunuyor. Helal kesim ve hijyenik koşullarda üretim yapan kasaplarımız, müşterilerine güvence ve tatmin sağlıyor. Seydikemer Çınar et, yemeklerinize lezzet ve güvence katıyor. Hemen arayın etinizi kapınıza kadar getirelim. Adres: Güneşli mahallesi, saklıkent caddesi, no:114&lt;/p&gt;&lt;br&gt;&lt;p&gt;website: &lt;a href="https://sites.google.com/view/seydikemerkasap/"&gt;&lt;strong&gt;https://sites.google.com/view/seydikemerkasap/&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;br/&gt;&lt;center&gt;&lt;iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12818.06551208955!2d29.3893378!3d36.5657723!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14c04d98aa12808d%3A0xf841dce754bd4820!2sSeydikemer%20Kasap%20%C3%87%C4%B1nar%20Et!5e0!3m2!1str!2str!4v1694417657769!5m2!1str!2str" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"&gt;&lt;/iframe&gt;&lt;/center&gt;</itunes:summary>
 
-				<description><![CDATA[<p>Seydikemer Kasap, Telefon : 0536 561 8834 Çınar Et, kalitenin, uygun fiyatın ve helal kesimin adresi. Seydikemer Kasap, et ve tavuk ürünlerindeki kalite, uygun fiyat, helal kesim, ve güveni bir araya getiriyor. Her damak zevkine hitap eden çeşitlilikteki ürünleriyle Seydikemer kasap Çınar et, lezzeti bütçenizi zorlamadan sunuyor. Helal kesim ve hijyenik koşullarda üretim yapan kasaplarımız, müşterilerine güvence ve tatmin sağlıyor. Seydikemer Çınar et, yemeklerinize lezzet ve güvence katıyor. Hemen arayın etinizi kapınıza kadar getirelim. Adres: Güneşli mahallesi, saklıkent caddesi, no:114</p><br><p>website: <a href="https://sites.google.com/view/seydikemerkasap/" rel="noopener noreferrer" target="_blank"><strong>https://sites.google.com/view/seydikemerkasap/</strong></a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+				<description>&lt;p&gt;Seydikemer Kasap, Telefon : 0536 561 8834 Çınar Et, kalitenin, uygun fiyatın ve helal kesimin adresi. Seydikemer Kasap, et ve tavuk ürünlerindeki kalite, uygun fiyat, helal kesim, ve güveni bir araya getiriyor. Her damak zevkine hitap eden çeşitlilikteki ürünleriyle Seydikemer kasap Çınar et, lezzeti bütçenizi zorlamadan sunuyor. Helal kesim ve hijyenik koşullarda üretim yapan kasaplarımız, müşterilerine güvence ve tatmin sağlıyor. Seydikemer Çınar et, yemeklerinize lezzet ve güvence katıyor. Hemen arayın etinizi kapınıza kadar getirelim. Adres: Güneşli mahallesi, saklıkent caddesi, no:114&lt;/p&gt;&lt;br&gt;&lt;p&gt;website: &lt;a href="https://sites.google.com/view/seydikemerkasap/"&gt;&lt;strong&gt;https://sites.google.com/view/seydikemerkasap/&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;br/&gt;&lt;center&gt;&lt;iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12818.06551208955!2d29.3893378!3d36.5657723!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14c04d98aa12808d%3A0xf841dce754bd4820!2sSeydikemer%20Kasap%20%C3%87%C4%B1nar%20Et!5e0!3m2!1str!2str!4v1694417657769!5m2!1str!2str" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"&gt;&lt;/iframe&gt;&lt;/center&gt;</description>
 
 				<itunes:explicit>no</itunes:explicit>
 
-				<itunes:owner>
-					<itunes:name>Seydikemer Kasap - Çınar Et</itunes:name>
-					<itunes:email>kertenkelede48@gmail.com</itunes:email>
-</itunes:owner>
+				
 
 				<acast:showId>64fc1cde154f4700117d959a</acast:showId>
 
 				<acast:showUrl>seydikemerkasap</acast:showUrl>
 
-			<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[IVnWbTPAIbvoLLgZLYZ0dQ==]]></acast:signature>
-				<acast:settings><![CDATA[PKW7Io6d0YxR91teuCx/FZRf7Oi/TcelqtCpW+UmCEKs2TuAzHh7V72lQsE5C096eRtHdSE3tfkunv+C61BMqUwoebEitl9uocoi/4dhRk3JzV7AbfYtPdxmCxVC3TePiTWOXznsAp6EXT0BQWm9TbJsAFvJZ57AlmGIra6xCR3jd5aiCDnHoB/PcI17kk/4sXQfx9vgZ91JmFCXPUxRz9QJix3kONpH5AFqhzUAu9QjgP4UHldiBiO47c4Aup1/Phd32cwnj5cB5hnZ+kEaHOSuG+OYFLAkBy6xt6bMauxrbaQ54D0juwjPNl+skAEyekWZ2avPodtKMzuVhDHz4Fpfd2z6jpxZrEn7x53IYR2ICGwL5e+HVAbHBZBxCOAFcn8GMXSo23J6z3PHXCAe03CzXKsXTDNoPP6mZlukZOCiBHq0M3taYvimAy9gDkGuP0Kp5+qBLy9clJKe/yilX+vGvg2uwf7wsbTyBf12wi8=]]></acast:settings>
+			<acast:signature algorithm="aes-256-cbc" key="EXAMPLE"><![CDATA[X3w4HguDWajMczZ3ARinEw==]]></acast:signature>
+				<acast:settings><![CDATA[U2ygo+MT3vbZt6kMKPSvaCV360D3PA648OXG39we7wV5bTWq5/aVzYciHJ8A6C+h0EHbym8L/MuNqPKxAKrjabzke1v4l3XK8Npr71Ofyy0rEQtGm54APcxvp5cUevSVoYKvoQJrQdcJMcBKgHZi5xg0nLHPXE6YMPc4hvfNkQLa2dc7QbWKkoCr35i+PgEmBMIe9nFkt8Gqm2ASyI/AgTeCqpVGS7DbRqwmfS9gSKm9j/PvHDkoqYnQQkZ/RRmY/JO2UK98aa/JC82+lKpid3tVJbOynmgRtvsreq3wBySJ/NR9nsrGprzGUua1axLPZ+ZR+7hqtBAEfaDp0s/IosSYedIow3Tvcbi2bO2/IoWfGoPxiHBiwC4hnp+RL80jEHv6f8P8hvkdLEUysE0mbrVn+jsyrZCBhtP4uqeyeEmWwWeog0EPJchBYQqh8+L9PWP6RFczcWrJKrAOh5Ff/++jgkCm7MjVCtEesGSKc/s=]]></acast:settings>
 
 				<itunes:type>episodic</itunes:type>
 
@@ -49,7 +44,7 @@
 					<title>Seydikemer Kasap 0536 561 8834 Çınar Et</title>
 </image>
 
-				<item>
+				<itunes:category text="Business"/><itunes:owner><itunes:email>kertenkelede48@gmail.com</itunes:email><itunes:name>Seydikemer Kasap - Çınar Et</itunes:name></itunes:owner><item>
 						<title>Seydikemer Et Fiyatları 0536 561 8834 Çınar Et</title>
 
 						<itunes:title>Seydikemer Et Fiyatları 0536 561 8834 Çınar Et</itunes:title>
@@ -58,7 +53,7 @@
 
 						<itunes:duration>0:22</itunes:duration>
 
-					<enclosure url="https://sphinx.acast.com/p/open/s/64fc1cde154f4700117d959a/e/64fc33af977e5a0012534ad6/media.mp3" length="526994" type="audio/mpeg"/>
+					<enclosure length="526994" type="audio/mpeg" url="https://sphinx.acast.com/p/open/s/64fc1cde154f4700117d959a/e/64fc33af977e5a0012534ad6/media.mp3"/>
 					<guid isPermaLink="false">64fc33af977e5a0012534ad6</guid>
 						<itunes:explicit>no</itunes:explicit>
 
@@ -70,7 +65,7 @@
 
 						<acast:episodeUrl>seydikemer-et-fiyatlari</acast:episodeUrl>
 
-						<acast:settings><![CDATA[PKW7Io6d0YxR91teuCx/FZQpwl/hXCec9ZXWstY7GEzFILPgBEx46q3jZzLYiOwezcDOn/QWLkYRCDNISDZyfrzsZXgnWYG8EpljVqJ8uOTHaVzos2tyAm2dK0eiUvMHSWNXY96txXMoh4M0WNoVqGaDHUXpKqTpYuFJrEJX7X3kluH25LLeBlH3+VlaQHIzKnRoWG/VWiJhEYUwkKo0sPHL6yuNOZ4o4pn98qPIin3HACerNbwI5vKlVHkDI/nPGAOEQRLGPvtaA5Mxvc3CEr9zC8Uh05XdhORz1ZMb0oYllKKU/U6XSYcCbissPEfg4bDNe5pjDH4cX2MG1wIGJYl3XubCfjTVSfF6/aCtUzYYNi/HJg/Iqbw3897Jx/dCQ6aILv/SyHCJd6DNMBf4UjDq/Aj8YCuyaNIf89U4HHCFi4nnGABKo+T539+glsiP6vyiFFIFd8Ppc0sC0G70qStckoHf+nUye+UrFcCmOboV3Ac/D0ILAToW48wFCjJhy/BewjiP3qrUCm5bM3XhBUMaEfNTf/i3o3Sn2znHyWI=]]></acast:settings>
+						<acast:settings><![CDATA[U2ygo+MT3vbZt6kMKPSvaNf6q0aZ4eAybk6KnSY1tTBf4pdnXTxgd/y/Ry4PiTzO2ob3Tpy+0AtqJrwRmr95U3ziXwWS6Ez6oqxa/ch+u9UJR5DNjWsY5JL/7KzgwId8ykQe+ER2hgZ5vIFX319w2iJBnRru/fRQ2Ycfzdu1aZ9w/0qnnzwwDT+TwBK7IfoRMut0a5h9dOAB0vf3TWK6XY2b+upnwz3ceCc87PIjB8uzTccC7bu0ksfDsqtAO1RfsmmAgHkfKYmXZIPyjmL0RccZNbhrR3OsFZp34+8ANCZSkxUZK7OIXVbdiJNgqUnBI8cQaVXa8IJjfZRFUTQ13juOgxSO4+BipyJIXLjK0njcCbjGOhQur0hUR3Tdf9TIMJsX5r6OPqK6M66xjfc1qwORm3XgbEwoKjZ+01ZVE/nVYtvXkchiVTS5tqk4nX1QoYvplCu6c5qUs2+1Sk3vNd1X+yYkdyR59MWCao4gTwcqZzcjTPXeXAtSh1uezzRjuwyeMkPyrHS/RPszAU8xyRSLdQNzgRRbeakL7mK0tEM=]]></acast:settings>
 
 						<itunes:episodeType>full</itunes:episodeType>
 
@@ -79,7 +74,7 @@
 
 						<itunes:summary><![CDATA[Seydikemer Et Fiyatları (Çınar Et) : Lezzet Dolu Bir Tadım Deneyimi, Seydikemer et fiyatları, kalite ve lezzeti bir araya getiriyor. Seydikemer kasapları, taze ve sağlıklı etleri uygun fiyatlarla sunarak damaklarınızı şenlendiriyor. Helal kesim ve hijyenik koşullarda üretilen etler, herkesin bütçesine hitap ediyor. Seydikemer et fiyatlarıyla lezzeti evinize getirin ve enfes yemeklerin tadını çıkarın. sipariş telefon : 0536 561 8834 website: <a href="https://sites.google.com/view/seydikemerkasap/et-fiyatlari" rel="noopener noreferrer" target="_blank"><strong>https://sites.google.com/view/seydikemerkasap/et-fiyatlari</strong></a><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
 
-</item>
+<author>kertenkelede48@gmail.com (Seydikemer Kasap - Çınar Et)</author><itunes:subtitle>Seydikemer Et Fiyatları (Çınar Et) : Lezzet Dolu Bir Tadım Deneyimi, Seydikemer et fiyatları, kalite ve lezzeti bir araya getiriyor. Seydikemer kasapları, taze ve sağlıklı etleri uygun fiyatlarla sunarak damaklarınızı şenlendiriyor. Helal kesim ve hijyenik koşullarda üretilen etler, herkesin bütçesine hitap ediyor. Seydikemer et fiyatlarıyla lezzeti evinize getirin ve enfes yemeklerin tadını çıkarın. sipariş telefon : 0536 561 8834 website: https://sites.google.com/view/seydikemerkasap/et-fiyatlari Hosted on Acast. See acast.com/privacy for more information.</itunes:subtitle><itunes:author>Seydikemer Kasap - Çınar Et</itunes:author><itunes:keywords>seydikemer kasap,seydikemer çınar et,seydikemer kasabı, seydikemer et</itunes:keywords></item>
 
 				<item>
 						<title>Seydikemer Kırmızı Et 0536 561 8834 Çınar Et</title>
@@ -90,7 +85,7 @@
 
 						<itunes:duration>0:22</itunes:duration>
 
-					<enclosure url="https://sphinx.acast.com/p/open/s/64fc1cde154f4700117d959a/e/650054e9d570420011b3e5a1/media.mp3" length="526994" type="audio/mpeg"/>
+					<enclosure length="526994" type="audio/mpeg" url="https://sphinx.acast.com/p/open/s/64fc1cde154f4700117d959a/e/650054e9d570420011b3e5a1/media.mp3"/>
 					<guid isPermaLink="false">650054e9d570420011b3e5a1</guid>
 						<itunes:explicit>no</itunes:explicit>
 
@@ -102,7 +97,7 @@
 
 						<acast:episodeUrl>seydikemer-kirmizi-et</acast:episodeUrl>
 
-						<acast:settings><![CDATA[PKW7Io6d0YxR91teuCx/FZQpwl/hXCec9ZXWstY7GEzFILPgBEx46q3jZzLYiOwezcDOn/QWLkYRCDNISDZyfrzsZXgnWYG8EpljVqJ8uOTHaVzos2tyAm2dK0eiUvMHSWNXY96txXMoh4M0WNoVqGaDHUXpKqTpYuFJrEJX7X3kluH25LLeBlH3+VlaQHIzKnRoWG/VWiJhEYUwkKo0sPHL6yuNOZ4o4pn98qPIin3HACerNbwI5vKlVHkDI/nPGAOEQRLGPvtaA5Mxvc3CEr9zC8Uh05XdhORz1ZMb0oYllKKU/U6XSYcCbissPEfg4bDNe5pjDH4cX2MG1wIGJYl3XubCfjTVSfF6/aCtUzYYNi/HJg/Iqbw3897Jx/dCQ6aILv/SyHCJd6DNMBf4UjDq/Aj8YCuyaNIf89U4HHCFi4nnGABKo+T539+glsiP6vyiFFIFd8Ppc0sC0G70qe8J5xPYmOJ4Z8F6f4j5kd+svyjntDGZFVQ8XbzlYTsm953+7O29Tm6dd9JHbmQeWgdP/8hOvb+vKC3+iNKh8B0=]]></acast:settings>
+						<acast:settings><![CDATA[U2ygo+MT3vbZt6kMKPSvaNf6q0aZ4eAybk6KnSY1tTBf4pdnXTxgd/y/Ry4PiTzO2ob3Tpy+0AtqJrwRmr95U3ziXwWS6Ez6oqxa/ch+u9UJR5DNjWsY5JL/7KzgwId8ykQe+ER2hgZ5vIFX319w2iJBnRru/fRQ2Ycfzdu1aZ9w/0qnnzwwDT+TwBK7IfoRMut0a5h9dOAB0vf3TWK6XY2b+upnwz3ceCc87PIjB8uzTccC7bu0ksfDsqtAO1RfsmmAgHkfKYmXZIPyjmL0RccZNbhrR3OsFZp34+8ANCZSkxUZK7OIXVbdiJNgqUnBI8cQaVXa8IJjfZRFUTQ13juOgxSO4+BipyJIXLjK0njcCbjGOhQur0hUR3Tdf9TIMJsX5r6OPqK6M66xjfc1qwORm3XgbEwoKjZ+01ZVE/nVYtvXkchiVTS5tqk4nX1QoYvplCu6c5qUs2+1Sk3vNbfAzro1IcT4rVoTJPfqihtzKSjtzd0BVJ228BGRatkyFtPIfsiz3arP5HkPWhOZhyfh+NvrVfhpuLY5bViWVzU=]]></acast:settings>
 
 						<itunes:episodeType>full</itunes:episodeType>
 
@@ -111,7 +106,7 @@
 
 						<itunes:summary><![CDATA[<p>Seydikemer Kırmızı Et &amp; Çınar ET - Lezzetin ve Kalitenin Adresi! Seydikemer ve çevresinde kırmızı etin en lezzetli halini arıyorsanız, Seydikemer Kırmızı Et sizin için burada. Bonfile, biftek, pirzola, göğüs gerdan, kol gerdan, külbastı, kıyma, lokum, Adana kebap, kuzu şiş, kasap köfte, sakatat ve mangallık hazırlanmış soslanmış et seçenekleriyle, her damak zevkine hitap ediyoruz. Lezzeti ve kaliteyi bir araya getiriyor, en taze etleri sofralarınıza sunuyoruz. Seydikemer Kırmızı Et - Kalite ve Lezzetin Buluşma Noktası! Telefon numarası : 0536 561 8834</p><br><p>website: <a href="https://sites.google.com/view/seydikemerkasap/kirmizi-et" rel="noopener noreferrer" target="_blank"><strong>https://sites.google.com/view/seydikemerkasap/kirmizi-et</strong></a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
 
-</item>
+<author>kertenkelede48@gmail.com (Seydikemer Kasap - Çınar Et)</author><itunes:subtitle>Seydikemer Kırmızı Et &amp;amp; Çınar ET - Lezzetin ve Kalitenin Adresi! Seydikemer ve çevresinde kırmızı etin en lezzetli halini arıyorsanız, Seydikemer Kırmızı Et sizin için burada. Bonfile, biftek, pirzola, göğüs gerdan, kol gerdan, külbastı, kıyma, lokum, Adana kebap, kuzu şiş, kasap köfte, sakatat ve mangallık hazırlanmış soslanmış et seçenekleriyle, her damak zevkine hitap ediyoruz. Lezzeti ve kaliteyi bir araya getiriyor, en taze etleri sofralarınıza sunuyoruz. Seydikemer Kırmızı Et - Kalite ve Lezzetin Buluşma Noktası! Telefon numarası : 0536 561 8834 website: https://sites.google.com/view/seydikemerkasap/kirmizi-et Hosted on Acast. See acast.com/privacy for more information.</itunes:subtitle><itunes:author>Seydikemer Kasap - Çınar Et</itunes:author><itunes:keywords>seydikemer kasap,seydikemer çınar et,seydikemer kasabı, seydikemer et</itunes:keywords></item>
 
 				<item>
 						<title>Seydikemer Tavukçu 0536 561 8834 Çınar Et</title>
@@ -122,7 +117,7 @@
 
 						<itunes:duration>0:22</itunes:duration>
 
-					<enclosure url="https://sphinx.acast.com/p/open/s/64fc1cde154f4700117d959a/e/65005479d570420011b3d270/media.mp3" length="526994" type="audio/mpeg"/>
+					<enclosure length="526994" type="audio/mpeg" url="https://sphinx.acast.com/p/open/s/64fc1cde154f4700117d959a/e/65005479d570420011b3d270/media.mp3"/>
 					<guid isPermaLink="false">65005479d570420011b3d270</guid>
 						<itunes:explicit>no</itunes:explicit>
 
@@ -134,7 +129,7 @@
 
 						<acast:episodeUrl>seydikemer-tavukcu</acast:episodeUrl>
 
-						<acast:settings><![CDATA[PKW7Io6d0YxR91teuCx/FZQpwl/hXCec9ZXWstY7GEzFILPgBEx46q3jZzLYiOwezcDOn/QWLkYRCDNISDZyfrzsZXgnWYG8EpljVqJ8uOTHaVzos2tyAm2dK0eiUvMHSWNXY96txXMoh4M0WNoVqGaDHUXpKqTpYuFJrEJX7X3kluH25LLeBlH3+VlaQHIzKnRoWG/VWiJhEYUwkKo0sPHL6yuNOZ4o4pn98qPIin3HACerNbwI5vKlVHkDI/nPGAOEQRLGPvtaA5Mxvc3CEr9zC8Uh05XdhORz1ZMb0oYllKKU/U6XSYcCbissPEfg4bDNe5pjDH4cX2MG1wIGJYl3XubCfjTVSfF6/aCtUzYYNi/HJg/Iqbw3897Jx/dCQ6aILv/SyHCJd6DNMBf4UjDq/Aj8YCuyaNIf89U4HHCFi4nnGABKo+T539+glsiP6vyiFFIFd8Ppc0sC0G70qRN2tmoYtgqNnnV9pLXlLfXnluGeJNH44RauL6HvUtnLqHF30oyDjrNRGD56J7TraFBe9lcRHtvrSoMxDSOu2UQ=]]></acast:settings>
+						<acast:settings><![CDATA[U2ygo+MT3vbZt6kMKPSvaNf6q0aZ4eAybk6KnSY1tTBf4pdnXTxgd/y/Ry4PiTzO2ob3Tpy+0AtqJrwRmr95U3ziXwWS6Ez6oqxa/ch+u9UJR5DNjWsY5JL/7KzgwId8ykQe+ER2hgZ5vIFX319w2iJBnRru/fRQ2Ycfzdu1aZ9w/0qnnzwwDT+TwBK7IfoRMut0a5h9dOAB0vf3TWK6XY2b+upnwz3ceCc87PIjB8uzTccC7bu0ksfDsqtAO1RfsmmAgHkfKYmXZIPyjmL0RccZNbhrR3OsFZp34+8ANCZSkxUZK7OIXVbdiJNgqUnBI8cQaVXa8IJjfZRFUTQ13juOgxSO4+BipyJIXLjK0njcCbjGOhQur0hUR3Tdf9TIMJsX5r6OPqK6M66xjfc1qwORm3XgbEwoKjZ+01ZVE/nVYtvXkchiVTS5tqk4nX1QoYvplCu6c5qUs2+1Sk3vNb2EwweygOWLP26ja4B0fJuKdwt3LLUeBa/VVVk2cuYEBhlgSK4PGVa/5Xb0m/FZFsq7Mi8CE8K+bhNYtRzODgA=]]></acast:settings>
 
 						<itunes:episodeType>full</itunes:episodeType>
 
@@ -143,7 +138,7 @@
 
 						<itunes:summary><![CDATA[<p>Seydikemer Tavukçu - Taze, Lezzet Dolu Tavuk Ürünleri!</p><br><p>Seydikemer ve çevresinde tavuk lezzeti arıyorsanız, Seydikemer Tavukçu doğru adres. Helal kesim Toros tavuk, Gedik piliç, kanat, incik, kelebek, kalçalı but, pirzola, çıtır kelebek, göğüs şiş ve mangallık hazırlanmış soslanmış tavuk gibi çeşitli tavuk ürünleriyle sofralarınızı zenginleştiriyoruz. Tazeliği, kaliteyi ve lezzeti ön planda tutuyoruz. Seydikemer Tavukçu'ya uğrayın ve her lokmanın keyfini çıkarın! Seydikemer Çınar Et ! Telefon numarası : 0536 561 8834</p><br><p>website: <a href="https://sites.google.com/view/seydikemerkasap/seydikemer-tavukcu" rel="noopener noreferrer" target="_blank"><strong>https://sites.google.com/view/seydikemerkasap/seydikemer-tavukcu</strong></a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
 
-</item>
+<author>kertenkelede48@gmail.com (Seydikemer Kasap - Çınar Et)</author><itunes:subtitle>Seydikemer Tavukçu - Taze, Lezzet Dolu Tavuk Ürünleri! Seydikemer ve çevresinde tavuk lezzeti arıyorsanız, Seydikemer Tavukçu doğru adres. Helal kesim Toros tavuk, Gedik piliç, kanat, incik, kelebek, kalçalı but, pirzola, çıtır kelebek, göğüs şiş ve mangallık hazırlanmış soslanmış tavuk gibi çeşitli tavuk ürünleriyle sofralarınızı zenginleştiriyoruz. Tazeliği, kaliteyi ve lezzeti ön planda tutuyoruz. Seydikemer Tavukçu'ya uğrayın ve her lokmanın keyfini çıkarın! Seydikemer Çınar Et ! Telefon numarası : 0536 561 8834 website: https://sites.google.com/view/seydikemerkasap/seydikemer-tavukcu Hosted on Acast. See acast.com/privacy for more information.</itunes:subtitle><itunes:author>Seydikemer Kasap - Çınar Et</itunes:author><itunes:keywords>seydikemer kasap,seydikemer çınar et,seydikemer kasabı, seydikemer et</itunes:keywords></item>
 
 				<item>
 						<title>Seydikemer Helal Kesim Et Tavuk 0536 561 8834 Çınar Et</title>
@@ -154,7 +149,7 @@
 
 						<itunes:duration>0:22</itunes:duration>
 
-					<enclosure url="https://sphinx.acast.com/p/open/s/64fc1cde154f4700117d959a/e/64fc346b154f47001181a46b/media.mp3" length="526994" type="audio/mpeg"/>
+					<enclosure length="526994" type="audio/mpeg" url="https://sphinx.acast.com/p/open/s/64fc1cde154f4700117d959a/e/64fc346b154f47001181a46b/media.mp3"/>
 					<guid isPermaLink="false">64fc346b154f47001181a46b</guid>
 						<itunes:explicit>no</itunes:explicit>
 
@@ -166,7 +161,7 @@
 
 						<acast:episodeUrl>seydikemer-helal-kesim-et-tavuk</acast:episodeUrl>
 
-						<acast:settings><![CDATA[PKW7Io6d0YxR91teuCx/FZQpwl/hXCec9ZXWstY7GEzFILPgBEx46q3jZzLYiOwezcDOn/QWLkYRCDNISDZyfrzsZXgnWYG8EpljVqJ8uOTHaVzos2tyAm2dK0eiUvMHSWNXY96txXMoh4M0WNoVqGaDHUXpKqTpYuFJrEJX7X3kluH25LLeBlH3+VlaQHIzKnRoWG/VWiJhEYUwkKo0sPHL6yuNOZ4o4pn98qPIin3HACerNbwI5vKlVHkDI/nPGAOEQRLGPvtaA5Mxvc3CEr9zC8Uh05XdhORz1ZMb0oYllKKU/U6XSYcCbissPEfg4bDNe5pjDH4cX2MG1wIGJYl3XubCfjTVSfF6/aCtUzYYNi/HJg/Iqbw3897Jx/dCQ6aILv/SyHCJd6DNMBf4UjDq/Aj8YCuyaNIf89U4HHCFi4nnGABKo+T539+glsiP6vyiFFIFd8Ppc0sC0G70qepnAq6r4G0xW4xKlNi27HxzDXb26sndlxpHBFg3t6LhP07iCmsoElKUNdSPJGMwco8znlI6v9ITr6Azbrbi20Y=]]></acast:settings>
+						<acast:settings><![CDATA[U2ygo+MT3vbZt6kMKPSvaNf6q0aZ4eAybk6KnSY1tTBf4pdnXTxgd/y/Ry4PiTzO2ob3Tpy+0AtqJrwRmr95U3ziXwWS6Ez6oqxa/ch+u9UJR5DNjWsY5JL/7KzgwId8ykQe+ER2hgZ5vIFX319w2iJBnRru/fRQ2Ycfzdu1aZ9w/0qnnzwwDT+TwBK7IfoRMut0a5h9dOAB0vf3TWK6XY2b+upnwz3ceCc87PIjB8uzTccC7bu0ksfDsqtAO1RfsmmAgHkfKYmXZIPyjmL0RccZNbhrR3OsFZp34+8ANCZSkxUZK7OIXVbdiJNgqUnBI8cQaVXa8IJjfZRFUTQ13juOgxSO4+BipyJIXLjK0njcCbjGOhQur0hUR3Tdf9TIMJsX5r6OPqK6M66xjfc1qwORm3XgbEwoKjZ+01ZVE/nVYtvXkchiVTS5tqk4nX1QoYvplCu6c5qUs2+1Sk3vNfXgsp+gcZrR+N5s0Z5dymcsIrSVPPuGUkk0POByY7MqHlAReAoToI7JYsqxe8r99UYbT767YGuv3jViF4ApExo=]]></acast:settings>
 
 						<itunes:episodeType>full</itunes:episodeType>
 
@@ -175,9 +170,9 @@
 
 						<itunes:summary><![CDATA[<p>Seydikemer Helal Kesim Et ve Tavuk: Telefon : 0536 561 8834 Çınar Et, Lezzet ve Güvende Rahatlık Seydikemer'de helal kesim et ve tavuk arıyorsanız, doğru yerdesiniz. Seydikemer'deki helal kasaplar, size en yüksek kalitede ve güvenilir et ürünleri sunar. Helal kesim, lezzet, ve hijyen bir arada. Siz de Seydikemer'de bu eşsiz tadı deneyimlemek için bekliyoruz. Seydikemer Çınar Et telefon numarası (0536 561 8834)</p><br><p>website: <a href="https://sites.google.com/view/seydikemerkasap/helal-kesim-et-tavuk" rel="noopener noreferrer" target="_blank"><strong>https://sites.google.com/view/seydikemerkasap/helal-kesim-et-tavuk</strong></a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
 
-</item>
+<author>kertenkelede48@gmail.com (Seydikemer Kasap - Çınar Et)</author><itunes:subtitle>Seydikemer Helal Kesim Et ve Tavuk: Telefon : 0536 561 8834 Çınar Et, Lezzet ve Güvende Rahatlık Seydikemer'de helal kesim et ve tavuk arıyorsanız, doğru yerdesiniz. Seydikemer'deki helal kasaplar, size en yüksek kalitede ve güvenilir et ürünleri sunar. Helal kesim, lezzet, ve hijyen bir arada. Siz de Seydikemer'de bu eşsiz tadı deneyimlemek için bekliyoruz. Seydikemer Çınar Et telefon numarası (0536 561 8834) website: https://sites.google.com/view/seydikemerkasap/helal-kesim-et-tavuk Hosted on Acast. See acast.com/privacy for more information.</itunes:subtitle><itunes:author>Seydikemer Kasap - Çınar Et</itunes:author><itunes:keywords>seydikemer kasap,seydikemer çınar et,seydikemer kasabı, seydikemer et</itunes:keywords></item>
 
-			<itunes:category text="Business"/>
+			
 </channel>
 
 </rss>
