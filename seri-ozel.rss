@@ -1,4 +1,4 @@
-<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+ <rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
 <channel>
 <title>
 <![CDATA[ Podcast Maceram ]]>
@@ -34,8 +34,6 @@
 <itunes:category text="Business">
 <itunes:category text="Marketing"/>
 </itunes:category>
-<item><title>mexc-guven</title><link>https://www.amazon.com/Mexc-Global-Borsas%C4%B1-G%C3%BCvenilir-Mi/dp/B0CH4JFVZJ</link><pubDate>Mon, 02 Oct 2023 11:03:45 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
-<item><title>mexc-guven</title><link>https://rebrand.ly/mexc-guvenilir-mi</link><pubDate>Mon, 02 Oct 2023 11:03:45 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
 <item><title>jiosaavn</title><link>https://www.jiosaavn.com/shows/bybit-referans-kodu/1/wu9K1oNeC04_</link><pubDate>Sat, 30 Sep 2023 20:32:30 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
 <item><title>kodu</title><link>https://refkodu.com/bybit-referans-kodu</link><pubDate>Sat, 30 Sep 2023 20:32:30 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
 <item><title>podfollow</title><link>https://podfollow.com/mxc-referral-code/view</link><pubDate>Sat, 30 Sep 2023 20:32:30 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
