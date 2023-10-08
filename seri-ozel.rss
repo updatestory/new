@@ -1,10 +1,10 @@
- <rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+ https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
 <channel>
 <title>
 <![CDATA[ Podcast Maceram ]]>
 </title>
-<link>https://podcasts.google.com</link>
-<atom:link href="https://feeds.acast.com/public/shows/2020-sarkilar-indir" rel="self" type="application/rss+xml"/>
+https://podcasts.google.com
+https://feeds.acast.com/public/shows/2020-sarkilar-indir" rel="self" type="application/rss+xml"/>
 <description>
 <![CDATA[ Bu podcast serüvenimizde sizleri de yanımızda görmekten keyif duyarız. ]]>
 </description>
@@ -14,11 +14,11 @@
 <copyright>
 <![CDATA[ ozelseri 2021 ]]>
 </copyright>
-<itunes:image href="https://assets.rss.com/images/no-cover-1400.jpg"/>
+https://assets.rss.com/images/no-cover-1400.jpg"/>
 <image>
-<url>https://assets.rss.com/images/no-cover-1400.jpg</url>
+https://assets.rss.com/images/no-cover-1400.jpg
 <title>Podcast Maceram</title>
-<link>https://podcasts.google.com</link>
+https://podcasts.google.com
 </image>
 <itunes:summary>
 <![CDATA[ Bu podcast serüvenimizde sizleri de yanımızda görmekten keyif duyarız. ]]>
@@ -34,6 +34,8 @@
 <itunes:category text="Business">
 <itunes:category text="Marketing"/>
 </itunes:category>
+<item><title>bybit-rf</title><link>https://rebrand.ly/bybit-referans-kodu</link><pubDate>Sun, 08 Oct 2023 14:19:21 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
+<item><title>bybit-rf</title><link>https://podfollow.com/referans-kodu/episode/3ae91e591e4ea8e2647420c099445e8138982110/view</link><pubDate>Sun, 08 Oct 2023 14:19:21 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
 <item><title>deezershow</title><link>https://www.deezer.com/show/1000317761</link><pubDate>Mon, 02 Oct 2023 16:01:29 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
 <item><title>referral</title><link>https://www.podchaser.com/podcasts/gate-io-referral-code-5388479</link><pubDate>Mon, 02 Oct 2023 16:01:29 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
 <item><title>show</title><link>https://www.deezer.com/show/1000316421</link><pubDate>Mon, 02 Oct 2023 16:01:29 +0000</pubDate><description><![CDATA[ <p>episode</p> ]]></description><enclosure url="https://traffic.libsyn.com/secure/floridaguru/45.mp3" type="audio/mpeg"/></item>
